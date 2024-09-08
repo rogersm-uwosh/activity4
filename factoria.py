@@ -5,8 +5,8 @@
 # find 'em and fix 'em
 
 def fact(n):
-    product = 0
-    for j in range(1,n):
+    product = 1
+    for j in range(1,n+1git re):
         product *= j
     return product
 
